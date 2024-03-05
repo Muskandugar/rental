@@ -1,0 +1,498 @@
+{
+    "cart": [
+      {
+        "title": "Apple iPhone 11 Pro (Midnight Green)",
+        "price": "3349",
+        "image": "https://p.rmjo.in/productSquare/byeagjss-500x500.jpg",
+        "category": "smartphones",
+        "deposit": "3499",
+        "id": 3
+      }
+    ],
+    "appliances": [
+      {
+        "id": 3000033,
+        "image": "https://p.rmjo.in/productSquare/683moqyy-500x500.jpg",
+        "title": "IFB Dishwasher",
+        "price": 1409,
+        "stock": "Out of stock",
+        "category": "dishwasher",
+        "days": "5 days",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg"
+      }
+    ],
+    "wfh_All": [
+    
+      {
+        "id": 16,
+        "img": "https://p.rmjo.in/productSquare/ffg0b4na-500x500.jpg",
+        "title": "Cross Trainer...",
+        "price": "1109",
+        "o_price": "72"
+      }
+     
+    ],
+    "wfh_Furniture": [
+    
+      {
+        "id": 18,
+        "img": "https://p.rmjo.in/productSquare/d25jc9wi-500x500.jpg",
+        "title": "Poise Study Table",
+        "price": "229",
+        "o_price": "72"
+      }
+    ],
+    "wfh_Fiteness_Equipment": [
+    
+      {
+        "id": 17,
+        "img": "https://p.rmjo.in/productSquare/mnuazvk3-500x500.jpg",
+        "title": "Miller Office Chair",
+        "price": "149",
+        "o_price": "72"
+      },
+      {
+        "id": 18,
+        "img": "https://p.rmjo.in/productSquare/d25jc9wi-500x500.jpg",
+        "title": "Poise Study Table",
+        "price": "229",
+        "o_price": "72"
+      }
+    ],
+    "electronics": [
+    
+      {
+        "image2": "https://www.E-Rentals.com/bangalore/electronics/rent-dell-vostro-3490/105220",
+        "image": "https://p.rmjo.in/productSquare/hint8o7v-500x500.jpg",
+        "title": "Dell Vostro 3490, Intel Core i3 processor , 10th Gen - (8 GB / 1 TB HDD / Win 10 Home , 14 inch, Black)",
+        "price": "1229",
+        "days": "3 days",
+        "category": "laptops",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "id": 10
+      },
+      {
+        "image2": "https://www.E-Rentals.com/bangalore/electronics/rent-macbook-air/40996",
+        "image": "https://p.rmjo.in/productSquare/x42n9zo5-500x500.jpg",
+        "title": "MacBook Air Intel Core i5 processor , 5th Gen - ( 8 GB / 128 GB SSD / Mac High Sierra OS , 13.3 inch, Silver )",
+        "price": "2169",
+        "days": "3 days",
+        "category": "laptops",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "id": 11
+      },
+      
+      {
+        "image2": "https://www.E-Rentals.com/bangalore/electronics/rent-laptop-windows-i5-4gb/113944",
+        "image": "https://p.rmjo.in/productSquare/gxeb5vcy-500x500.jpg",
+        "title": "Windows i5/4GB - Powered by MF",
+        "price": "3750",
+        "days": "3 days",
+        "category": "laptops",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "id": 13
+      },
+      
+      {
+        "image2": "https://www.E-Rentals.com/bangalore/electronics/rent-laptop-windows-i5-16gb/113946",
+        "image": "https://p.rmjo.in/productSquare/siecu434-500x500.jpg",
+        "title": "Windows i5/16GB - Powered by MF",
+        "price": "4821",
+        "days": "3 days",
+        "category": "laptops",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "id": 15
+      },
+      {
+        "image2": "https://www.E-Rentals.com/bangalore/electronics/rent-apple-ipad-10-2-inch/101825",
+        "image": "https://p.rmjo.in/productSquare/prlx76wq-500x500.jpg",
+        "title": "Apple iPad 10.2 inch (Grey)",
+        "price": "1369",
+        "category": "tablets",
+        "availability": "Out of stock",
+        "id": 86
+      }
+    ],
+    "fitness": [
+      {
+        "image": "https://p.rmjo.in/productSquare/42v0ixqu-500x500.jpg",
+        "title": "Exercise Cycle AB-100",
+        "price": 409,
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 1,
+        "stock": "available",
+        "category": "bikes"
+      },
+      {
+        "image": "https://p.rmjo.in/productSquare/zo83l86x-500x500.jpg",
+        "title": "Motorized Treadmill AF-515",
+        "price": 2359,
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 2,
+        "stock": "available",
+        "category": "treadmills"
+      }
+    ],
+    "furniture": [
+      {
+        "image": "https://p.rmjo.in/productSquare/0ahsljnf-500x500.jpg",
+        "title": "Poise 4-Seater Dining Table & Chairs",
+        "stock": "available",
+        "category": "dining",
+        "price": 789,
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 1
+      },
+      {
+        "image": "https://p.rmjo.in/productSquare/gjo18qqh-500x500.jpg",
+        "title": "Single Spring Mattress (6x3)",
+        "price": 309,
+        "stock": "available",
+        "category": "bedroom",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 2
+      },
+      
+      {
+        "image": "https://p.rmjo.in/productSquare/txf0setg-500x500.jpg",
+        "title": "Felix 1-Seater Fabric Sofa (Blue)",
+        "price": 379,
+        "stock": "available",
+        "category": "living",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 5
+      },
+      {
+        "image": "https://p.rmjo.in/productSquare/u8c7uurw-500x500.jpg",
+        "title": "Stuart Study Table",
+        "price": 149,
+        "stock": "available",
+        "category": "wfh",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 6
+      },
+  
+      {
+        "image": "https://p.rmjo.in/productSquare/xv6t8ac1-500x500.jpg",
+        "title": "Pixar TV Unit",
+        "price": 239,
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "stock": "available",
+        "category": "living",
+        "id": 12
+      },
+     
+     
+      {
+        "image": "https://p.rmjo.in/productSquare/nt5k5g9b-250x250.jpg",
+        "title": "Poise 2-Seater Dining Table & Chairs",
+        "price": 449,
+        "stock": "available",
+        "category": "dining",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 34
+      },
+      {
+        "image": "https://p.rmjo.in/productSquare/nhkwo8i6-250x250.jpg",
+        "title": "Tyler 4-Seater Dining Table & Chairs",
+        "price": 689,
+        "stock": "available",
+        "category": "dining",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 35
+      },
+      
+      {
+        "image": "https://p.rmjo.in/productSquare/y0ug2y0z-500x500.jpg",
+        "title": "Moonshine Bar Unit",
+        "price": 409,
+        "stock": "available",
+        "category": "living",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 189
+      },
+      {
+        "image": "https://p.rmjo.in/productSquare/d69fxfol-500x500.jpg",
+        "title": "Pinnig Coat Rack",
+        "price": 379,
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 190
+      }
+    ],
+    "wfh": 
+      [
+        {
+            "image": "https://voodeal.com/cdn/shop/products/study_table_3__2.jpg?v=1676897228",
+            "title": "Work from Home Desk & Chair Set",
+            "price": 789,
+            "stock": "available",
+            "category": "Work from Home",
+            "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+            "days": "3 days",
+            "id": 1
+        },
+        {
+            "image": "https://img.clasf.in/2023/12/22/Comfortable-Chair-and-Table-combo-set-for-office-or-home-use-20231222102041.5436650015.jpg",
+            "title": "table and chair",
+            "price": 109,
+            "stock": "available",
+            "category": "bedroom",
+            "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+            "days": "3 days",
+            "id": 2
+        },
+        {
+            "image": "https://images.woodenstreet.de/image/cache/data%2Fstudy-table%2Fnettle-study-table%2Frevised%2Fhoney%2Fupdated%2F1-750x650.jpg",
+            "title": "table",
+            "price": 379,
+            "stock": "available",
+            "category": "Work from Home",
+            "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+            "days": "3 days",
+            "id": 5
+        },
+        {
+            "image": "https://shop.gkwretail.com/cdn/shop/files/KidsStudyTable15.7_WritingDesk2.webp?v=1690881622&width=533",
+            "title": "table",
+            "price": 149,
+            "stock": "available",
+            "category": "Work from Home",
+            "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+            "days": "3 days",
+            "id": 6
+        },
+        {
+            "image": "https://images.jdmagicbox.com/quickquotes/images_main/folding-laptop-table-and-chair-set-work-from-home-2021364588-dizfy494.jpg",
+            "title": "Foldable chair and Table",
+            "price": 250,
+            "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+            "days": "3 days",
+            "stock": "available",
+            "category": "living",
+            "id": 12
+        },
+        {
+            "image": "https://p.rmjo.in/productSquare/nt5k5g9b-250x250.jpg",
+            "title": "Compact Work from Home Desk & Chair Set",
+            "price": 249,
+            "stock": "available",
+            "category": "Work from Home",
+            "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+            "days": "3 days",
+            "id": 34
+        }
+    ],
+    "Packages": 
+      [
+    {
+        "image": "https://voodeal.com/cdn/shop/products/study_table_3__2.jpg?v=1676897228",
+        "title": "To Kill a Mockingbird",
+        "price": 789,
+        "stock": "available",
+        "category": "Work from Home",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 100
+    },
+    {
+        "image": "https://img.clasf.in/2023/12/22/Comfortable-Chair-and-Table-combo-set-for-office-or-home-use-20231222102041.5436650015.jpg",
+        "title": "Pride and Prejudice",
+        "price": 109,
+        "stock": "available",
+        "category": "bedroom",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 102
+    },
+    {
+        "image": "https://images.woodenstreet.de/image/cache/data%2Fstudy-table%2Fnettle-study-table%2Frevised%2Fhoney%2Fupdated%2F1-750x650.jpg",
+        "title": "The Great Gatsby",
+        "price": 379,
+        "stock": "available",
+        "category": "Work from Home",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 103
+    },
+    {
+        "image": "https://shop.gkwretail.com/cdn/shop/files/KidsStudyTable15.7_WritingDesk2.webp?v=1690881622&width=533",
+        "title": "1984",
+        "price": 149,
+        "stock": "available",
+        "category": "Work from Home",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 104
+    },
+    {
+        "image": "https://images.jdmagicbox.com/quickquotes/images_main/folding-laptop-table-and-chair-set-work-from-home-2021364588-dizfy494.jpg",
+        "title": "Moby Dick",
+        "price": 250,
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "stock": "available",
+        "category": "living",
+        "id": 105
+    },
+    {
+        "image": "https://p.rmjo.in/productSquare/nt5k5g9b-250x250.jpg",
+        "title": "The Catcher in the Rye",
+        "price": 249,
+        "stock": "available",
+        "category": "Work from Home",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 106
+    }
+      ],
+
+    "product": [
+      {
+        "id": 300001,
+        "image": "https://p.rmjo.in/productSquare/xev0b5yi-500x500.jpg",
+        "title": "Induction Cooktop",
+        "price": 149,
+        "stock": "available",
+        "category": "microwaveandinduction",
+        "days": "3 days",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg"
+      },
+      {
+        "id": 300002,
+        "image": "https://p.rmjo.in/productSquare/bwskug14-500x500.jpg",
+        "title": "Single Door Fridge (190 Litre)",
+        "price": 719,
+        "stock": "available",
+        "category": "fridge",
+        "days": "4 days",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg"
+      },
+      {
+        "id": 3000026,
+        "image": "https://p.rmjo.in/productSquare/rdy4ni3d-500x500.jpg",
+        "title": "Front Load Washing Machine",
+        "price": 1189,
+        "stock": "Out of stock",
+        "category": "washingmachine",
+        "days": "3 days",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg"
+      }
+     ,
+      
+      {
+        "id": 300003,
+        "image": "https://p.rmjo.in/productSquare/ue88wnov-500x500.jpg",
+        "title": "Single Door Fridge (170 Litre)",
+        "price": 659,
+        "stock": "available",
+        "category": "fridge",
+        "days": "3 days",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg"
+      },
+      {
+        "id": 300004,
+        "image": "https://p.rmjo.in/productSquare/caskfrhd-500x500.jpg",
+        "title": "Double Door Fridge (240 Litre)",
+        "price": 1049,
+        "stock": "available",
+        "category": "fridge",
+        "days": "5 days",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg"
+      },
+      
+      {
+        "id": 3000016,
+        "image": "https://p.rmjo.in/productSquare/eztgdt5u-500x500.jpg",
+        "title": "LED TV - 32",
+        "price": 839,
+        "stock": "available",
+        "category": "telivision",
+        "days": "2 days",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg"
+      },
+      {
+        "id": 3000017,
+        "image": "https://p.rmjo.in/productSquare/6x7es84d-500x500.jpg",
+        "title": "Smart LED TV - 43",
+        "price": 1269,
+        "stock": "available",
+        "category": "telivision",
+        "days": "3 days",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg"
+      },
+      
+      {
+        "id": 3000027,
+        "image": "https://p.rmjo.in/productSquare/ex9dpggj-500x500.jpg",
+        "title": "Cloth Dryer",
+        "price": 929,
+        "stock": "Out of stock",
+        "category": "clothdryer",
+        "days": "2 days",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg"
+      },
+      {
+        "id": 3000028,
+        "image": "https://p.rmjo.in/productSquare/tapbng5v-500x500.jpg",
+        "title": "Smart LED TV - 49",
+        "price": 1339,
+        "stock": "Out of stock",
+        "category": "telivision",
+        "days": "2 days",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg"
+      },
+      
+      {
+        "image": "https://p.rmjo.in/productSquare/jqccn9bx-250x250.jpg",
+        "title": "Heston 4-Seater Dining Table & Chairs",
+        "price": 469,
+        "stock": "available",
+        "category": "dining",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 45
+      },
+      {
+        "image": "https://p.rmjo.in/productSquare/i9sbrcr5-250x250.jpg",
+        "title": "Heston 6-Seater Dining Table & Chairs",
+        "price": 679,
+        "stock": "available",
+        "category": "dining",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 46
+      },
+      
+      {
+        "image": "https://p.rmjo.in/productSquare/khai5gzi-500x500.jpg",
+        "title": "Marvel TV Unit",
+        "price": 139,
+        "stock": "available",
+        "category": "living",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 139
+      },
+      {
+        "image": "https://p.rmjo.in/productSquare/ghkiiop1-500x500.jpg",
+        "title": "Latte Wooden Coffee Table",
+        "price": 249,
+        "stock": "available",
+        "category": "living",
+        "delivery": "https://www.E-Rentals.com/public/images/fast-delivery/fast-delivery.svg",
+        "days": "3 days",
+        "id": 140
+      }
+    ]
+  }
